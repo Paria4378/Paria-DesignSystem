@@ -1,0 +1,24 @@
+{
+  "global": {
+    "Spacing": {
+      "XS": {
+        "value": "4",
+        "type": "spacing"
+      },
+      "XM": {
+        "value": "8",
+        "type": "spacing"
+      },
+      "LG": {
+        "value": "{Spacing.XM} * {Spacing.XS}",
+        "type": "spacing"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
